@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import NightNight
+import NightNight_Enhance
 
 class ViewController: UIViewController {
 
@@ -18,6 +18,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         view.mixedBackgroundColor = MixedColor(normal: 0xfafafa, night: 0x222222)
 
+        //anthzhu adds for custom block
+        view.sharedCustomize { theme in
+            print(theme)
+        }
 //        setupLabel()
 
         button.setTitle("NightNight", for: UIControl.State())

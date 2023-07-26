@@ -25,14 +25,21 @@ extension NSObject {
         }
     }
 
-    fileprivate /*public*/ func customize(_ closure: @escaping () -> ()) {
-        closure()
+    fileprivate /*public*/ func customize(_ closure: @escaping (NightNight.Theme) -> ()) {
+        closure(NightNight.theme)
         self.customize.closures.append(closure)
     }
+    
+    //anthzhu adds for custom block
+    public func sharedCustomize(_ closure: @escaping (NightNight.Theme) -> ()) {
+        closure(NightNight.theme)
+        self.customize.closures = [closure]
+    }
+
 }
 
 open class Customize: NSObject {
-    fileprivate var closures: [() -> ()] = []
+    fileprivate var closures: [(NightNight.Theme) -> ()] = []
     fileprivate weak var correspondingObject: NSObject?
 
     fileprivate convenience init(obj: NSObject) {
@@ -44,7 +51,7 @@ open class Customize: NSObject {
 
     @objc func _callAllExistingClosures() {
         closures.forEach {
-            $0()
+            $0(NightNight.theme)
         }
     }
 }

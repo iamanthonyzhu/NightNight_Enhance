@@ -17,7 +17,6 @@
 
 /* Begin PBXFileReference section */
 		2286B593E6147248E0DFB707 /* Pods_NightNight_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NightNight_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		233D95B26D3E89513D5DF57B /* NightNight.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NightNight.podspec; path = ../NightNight.podspec; sourceTree = "<group>"; };
 		4CC4F39DC1116D6B44BEB8E7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* NightNight_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NightNight_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -28,6 +27,7 @@
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
+		B3FEF1FB2A70C12E007CBED1 /* NightNight_Enhance.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = NightNight_Enhance.podspec; path = ../NightNight_Enhance.podspec; sourceTree = "<group>"; };
 		D4000D91563E48D75C828081 /* Pods-NightNight_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NightNight_Example.debug.xcconfig"; path = "Target Support Files/Pods-NightNight_Example/Pods-NightNight_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E2AB6420A3CE7055D3D383AF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E840B6847A8A27FCB96BB344 /* Pods-NightNight_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NightNight_Example.release.xcconfig"; path = "Target Support Files/Pods-NightNight_Example/Pods-NightNight_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -107,7 +107,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				233D95B26D3E89513D5DF57B /* NightNight.podspec */,
+				B3FEF1FB2A70C12E007CBED1 /* NightNight_Enhance.podspec */,
 				E2AB6420A3CE7055D3D383AF /* README.md */,
 				4CC4F39DC1116D6B44BEB8E7 /* LICENSE */,
 			);
@@ -210,11 +210,11 @@
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-NightNight_Example/Pods-NightNight_Example-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/NightNight/NightNight.framework",
+				"${BUILT_PRODUCTS_DIR}/NightNight_Enhance/NightNight_Enhance.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NightNight.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/NightNight_Enhance.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
