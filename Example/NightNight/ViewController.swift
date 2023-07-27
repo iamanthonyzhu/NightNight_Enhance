@@ -16,7 +16,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.mixedBackgroundColor = MixedColor(normal: 0xfafafa, night: 0x222222)
+        //view.mixedBackgroundColor = MixedColor(normal: 0xfafafa, night: 0x222222)
+        view.mixedBackgroundColor = MixedColor(colorTableKey: "RYB_View_2")
 
         //anthzhu adds for custom block
         view.sharedCustomize { theme in

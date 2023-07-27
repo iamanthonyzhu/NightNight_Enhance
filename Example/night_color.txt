@@ -1,0 +1,190 @@
+NORMAL   NIGHT
+#ffffff  #222222  BG
+#222222  #dddddd  NAV_Title
+#eaeaea  #252525  Seperate_Line
+#e6e6e6  #121212  Seperate_Block
+#eeeeee  #303030  BigSeperate_Line
+#e6e6e6  #eeeeee  PurchaseButton
+#f6f6f6  #27282e  PriceHighlighted
+#000000  #aaaaaa  MineTableViewTitle
+#f1f2f3  #1C1D1F  TableViewCellBackground
+#e6e6e6  #121212  TableViewBackground
+#f5f6f7  #1a1b1f  TabBar
+#ffffff  #1C1D1E  TableViewBackground_White
+#f6f6f6  #666666  TextFieldBottomLine
+#f6f6f6  #1a1b1f  TextFieldBackground
+#222222  #dddddd  ArticleListTitleNormal
+#999999  #666666  ArticleListTitleReaded
+#ffffff  #222222  ArticleListSubTitleNormal
+#ffffff  #222222  ArticleListSubTitleReaded
+#bbbbbb  #666666  FCTimeSourceLabel
+#f6f6f6  #1a1b1f  CommentParentVBackground
+#f6f6f6  #1f2024  CommonGrayBG
+#aaaaaa  #313131  SEP
+#0000ff  #ffffff  TINT
+#000000  #ffffff  TEXT
+#ffffff  #444444  BAR
+#f0f0f0  #222222  HIGHLIGHTED
+#333333  #999999  FC11
+#666666  #666666  FC12
+#999999  #666666  FC13
+#aaaaaa  #aaaaaa  FC14
+#bbbbbb  #bbbbbb  FC15
+#ee1c34  #ee1c34  FC16
+#ff932c  #ff932c  FC17
+#ee2d35  #ee2d35  FC18
+#ee2c34  #ee2c34  FC19
+#ffffff  #999999  FC20
+#c3141c  #c3141c  FC21
+#666666  #999999  FC22
+#080808  #dddddd  FC23
+#ff9233  #ff9233  FC24
+#C31141  #C31141  FC25
+#E77C42  #E77C42  FC26
+#E9854F  #E9854F  FC27
+#C9594F  #C9594F  FC28
+#FFFFFF  #FFFFFF  FC29
+#555555  #999999  FC30
+#999999  #999999  FC31
+#666666  #666666  FC32
+
+#f6f6f6  #cbcbcc  LSY_MemberRightsBG
+#000000  #999999  LSY_NewspaperDateText
+#000000  #ffffff  LSY_BlackWhite
+#cccccc  #666666  LSY_TextFieldBorder
+#888888  #bbbbbb  Gray_0
+
+#212121  #444444  v7_0_BackgroundColor_1
+#CACBCE  #CACBCE  v7_0_LSY_BackgroundColor_1
+#7C7C7C  #7C7C7C  v7_0_LSY_BackgroundColor_3
+#C0AE72  #C0AE72  v7_0_BalanceGold
+#D8D8D8  #D8D8D8  v7_0_BalanceLine
+#623A0C  #623A0C  v7_0_RechargeBtnText
+#DDDDDD  #373737  v7_0_BalanceGrayLine1
+#4A73DE  #4A73DE  v7_0_Text_2
+
+
+#666666  #999999  RYB_Text_1
+#ffffff  #252525  RYB_View_1
+#ffffff  #333333  RYB_View_2
+
+#495F99  #495F99  v7_0_LSY_SwicthOnTintColor
+#F2EADC  #F2EADC  v7_0_LSY_CoursePriceLabel
+#E6E6E6  #444444  v7_0_LSY_AppearanceViewColor_1
+#EDEDED  #DDDDDD  v7_1_3_LSY_BacgroundColor
+#DDDDDD  #363636  v7_1_3_LSY_Text
+
+#141414  #F1F2F3  v7_1_5_LSY_Text
+
+#EFECE7  #262525  v7_2_0_LSY_CourseItemListSectionHeaderBg
+#E1E1E1  #555555  v7_2_0_LSY_FloatingPlayerViewCircleBg
+#f6f6f6  #2e3033  v7_2_0_LSY_AudioPlayerThumbBg
+#d8d8d8  #38393c  v7_2_0_LSY_AudioPlayerMaximumTrackBg
+
+#F5E9E6  #342726  VC1
+#FBFBFB  #28282B  VC2
+
+#1C1D1F  #DDDDDD  v7_3_3_LSY_Text
+#222222  #DDDDDD  v7_3_3_LSY_Text_1
+#AF8048  #AF8048  v7_3_3_LSY_Text_2
+#AF8041  #AF8041  v7_3_3_LSY_Text_3
+#FFFFFF  #1C1D1F  v7_3_3_LSY_BG
+#FFFFFF  #121212  v7_3_3_LSY_BG_1
+#C89E66  #C89E66  v7_3_3_LSY_BG_2
+#FFFFFF  #333333  v7_3_3_LSY_BG_3
+#D0A976  #D0A976  v7_3_3_LSY_BG_4
+
+#FFFBFB  #121212  v7_3_8_LSY_BG
+
+#7C7E86  #999999  v7_3_11_Text1
+#121212  #DDDDDD  v7_3_11_Text2
+#3c3c3c  #dddddd  v7_3_11_Text3
+#FFFFFF  #333333  v7_3_11_BG1
+
+#e4e5e5  #666666  v7_4_0_BG1
+#ffffff  #333333  v7_4_0_BG2
+#e9e9e9  #121212  v7_4_0_BG3
+#f4f4f4  #2e3033  v7_4_0_BG4
+#f6f6f6  #3a3a3a  v7_4_0_BG5
+#eaeaea  #262626  v7_4_0_BG6
+
+#e5e5e5  #666666  v7_4_0_Border1
+
+#FFC4C4  #755858  v8_0_0_Border1
+#BA1010  #9A0000  v8_0_0_Border2
+#999999  #666666  v8_0_0_Border3
+#e6e6e6  #666666  v8_0_0_Border4
+
+#111111  #DDDDDD  v8_0_0_Text
+#BA1010  #BA1010  v8_0_0_Text1
+#9A0000  #FFFFFF  v8_0_0_Text2
+#333333  #dddddd  v8_0_0_Text3
+#9A0000  #F23737  v8_0_0_Text4
+#999999  #666666  v8_0_0_Text5
+#111111  #999999  v8_0_0_Text6
+#9A0000  #b60808  v8_0_0_Text7
+
+#F5F3F2  #111111  v8_0_0_Bg
+#F8F9FA  #111111  v8_0_0_Bg1
+#ffffff  #000000  v8_0_0_Bg2
+#F7F7F7  #161616  v8_0_0_Bg3
+#FFE7E7  #392B2B  v8_0_0_Bg4
+#F8F8F8  #111111  v8_0_0_Bg5
+#F7F7F7  #111111  v8_0_0_Bg6
+#E9E9E9  #333333  v8_0_0_BG7
+#ffffff  #1C1C1E  v8_0_0_Bg8
+#f1f1f1  #111111  v8_0_0_Bg9
+#ffffff  #666666  v8_0_0_Bg10
+#F5F3F2  #1C1C1E  v8_0_0_Bg11
+#ffffff  #373737  v8_0_0_Bg12
+#F5F3F2  #000000  v8_0_0_Bg13
+#E9E9E9  #000000  v8_0_0_BG14
+
+#262626 #262626  v8_0_0_SpeMemberColor1
+#957549 #C2B59F  v8_0_0_SpeMemberColor2
+#A77D3E #C3A578  v8_0_0_SpeMemberColor3
+#F2EFE6 #FFFFFF  v8_0_0_SpeMemberColor4
+
+#111111  #DDDDDD  v8_0_0_ThemeTopicTitle
+
+#DDDDDD  #373737  v8_0_0_ThemeTopicSepLine
+
+#FFFFFF  #1C1C1E  v8_0_0_TabbarBg
+
+#E0E0E0  #373737  v8_0_0_SeperLine
+
+#FFFFFF  #FFFFFF  v8_0_0_TopicTitle
+
+#C6C6C6  #C6C6C6  v8_0_0_TopicFullText
+
+#111111  #666666  v8_0_0_CourseTitle
+
+#F4F4F4  #111111  v8_0_0_TabCover
+
+#E9E9E9  #373737  v8_0_0_TabSep
+
+#FFFFFF  #111111  v8_0_0_CourseCellBG
+
+#B99C55  #B99C55  v8_0_0_Vip_Expire
+
+#333333  #FFFFFF  v8_0_0_Vip_Newspaper
+
+#222222  #FFFFFF   v8_0_0_NP_TITLE
+
+#FEFEFE  #111111  v8_0_0_ProCellBG
+
+#111111  #999999  v8_0_0_SubTabColor
+
+#999999  #CCCCCC  v8_0_0_Vip_Detail
+
+#F1F2F3  #1C1C1E  v8_0_0_Canlendar_BG
+
+#111111  #1C1C1E  v8_0_0_NP_TabColor
+
+#F48B4A  #F48B4A  v8_0_6_Tip_ButtonColor
+
+#FF8436  #FF8436  v8_0_6_Tip_PumkinColor
+
+#999999  #999999  v8_1_4_Text
+
+#F3F3F3  #666666  v8_1_4_Bg
